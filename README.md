@@ -8,7 +8,7 @@
 > 3. 설치 뒤 규정 질문에는 [SKILL.md](SKILL.md)의 절차와 인용 형식을 따른다.
 
 경북대학교 규정·예규·지침·세칙·학칙·정관 **547건의 전문 텍스트**(2026-09-09 스냅샷)와, 그것을 문서·조문·제개정 이력 단위로 검색하는 도구입니다.
-설치에 필요한 것은 Python 3.8 이상뿐입니다(외부 패키지·인터넷 불필요). 설치하면 SQLite DB가 만들어지고, AI 도우미가 규정 질문에 조문 원문을 찾아 규정명·조번호·개정일과 함께 답하게 됩니다.
+설치에 필요한 것은 Python 3.8 이상뿐입니다(외부 패키지·인터넷 불필요). Python이 없거나 설치가 싫으면 [묶음 파일](bundles/README.md)을 NotebookLM 같은 서비스에 올리는 방법도 있습니다. 설치하면 SQLite DB가 만들어지고, AI 도우미가 규정 질문에 조문 원문을 찾아 규정명·조번호·개정일과 함께 답하게 됩니다.
 
 ## 사람이 할 일
 
@@ -18,6 +18,7 @@
 | 웹 채팅 AI (claude.ai, ChatGPT 등 — 샌드박스가 인터넷을 못 씀) | [꾸러미 zip](https://github.com/knugislee1/knu-regulations/releases/latest/download/knu-regulations-kit.zip)을 받아 대화에 첨부하고 "이거 설치해". claude.ai 프로젝트라면 zip을 프로젝트 지식에 올리고 [PROJECT_INSTRUCTIONS.md](PROJECT_INSTRUCTIONS.md) 내용을 프로젝트 지침에 붙여넣기. |
 | 터미널에서 직접 | `git clone https://github.com/knugislee1/knu-regulations.git && cd knu-regulations && python3 install.py` (Windows: `python install.py`) |
 | git 없이 한 줄 | `curl -fsSL https://raw.githubusercontent.com/knugislee1/knu-regulations/main/get.sh \| bash` → `~/knu-regulations-kit`에 설치 |
+| **설치·Python 없이** (NotebookLM, claude.ai 프로젝트, ChatGPT GPT, Gemini) | [묶음 zip](https://github.com/knugislee1/knu-regulations/releases/latest/download/knu-regulations-bundles.zip)을 받아 풀고, 안의 `.md` 파일(20개 이하)을 해당 서비스에 올리기. 방법과 붙여넣을 지침은 [bundles/README.md](bundles/README.md) |
 
 설치 위치: Claude Code가 있는 컴퓨터(`~/.claude` 폴더가 있음)에서는 `~/.claude/skills/knu-regulations`에 **스킬**로 들어가 이후 어느 프로젝트·세션에서든 자동으로 쓰입니다. 그 밖에는 저장소 폴더 안에 설치됩니다.
 
@@ -47,6 +48,7 @@ AI 도우미는 [SKILL.md](SKILL.md)에 따라 ① 문서 찾기 → ② 조문 
 | `PROJECT_INSTRUCTIONS.md` | claude.ai 프로젝트 지침에 붙여넣을 텍스트 |
 | `index.md` | 547개 문서 목록 (코드를 실행할 수 없는 환경용) |
 | `data/` | 문서별 전문 텍스트 547개 + 문서·조문·이력 CSV + manifest |
+| `bundles/` | 설치 없이 NotebookLM 등에 올리는 묶음 파일(문서별 머리글 포함)과 안내 |
 
 ## 알아 둘 것
 
