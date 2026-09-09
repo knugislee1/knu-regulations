@@ -9,6 +9,7 @@ DB(knu_regulations.sqlite)가 없으면 data/ 폴더의 CSV·텍스트에서 자
   python3 knu_reg.py show 8                    # 문서 8의 개요 + 조문 목록 (--full: 전문)
   python3 knu_reg.py history 8                 # 문서 8의 제·개정 이력
   python3 knu_reg.py grep "정당한 사유"          # 전체 텍스트 정규식 검색 (줄 단위)
+  python3 knu_reg.py verify "학사과정: 6개 학기 이내"   # 인용문이 원문에 글자 그대로 있는지 확인 (환각 방지)
   python3 knu_reg.py sql "SELECT ..."          # 읽기 전용 SQL
   python3 knu_reg.py selftest                  # 설치 자가 검증
   python3 knu_reg.py build --force             # DB 재생성
@@ -226,6 +227,29 @@ def cmd_grep(con, args):
         if len(rows) >= args.limit: break
     out(rows, ['doc_id', 'title', 'line', 'text'], args, f'정규식 /{args.pattern}/ : {len(rows)}건 (doc_id | 문서 | 줄 | 내용)')
 
+def _norm_q(s): return re.sub(r'\s+', '', s).replace('…', '').replace('...', '')
+
+def cmd_verify(con, args):
+    """인용문(공백·줄바꿈 무시)이 어느 문서의 어느 조문에 글자 그대로 있는지 확인한다. '…'로 자른 조각은 각각 검사한다."""
+    pieces = [p for p in re.split(r'…|\.\.\.', args.quote) if _norm_q(p)]
+    if not pieces: print('인용문이 비어 있습니다.'); return
+    rows = con.execute("SELECT a.doc_id, d.title, a.part, a.part_label, a.article_no, a.article_title, a.text FROM articles a JOIN documents d USING(doc_id) WHERE d.is_duplicate=0").fetchall()
+    results = []
+    for piece in pieces:
+        key = _norm_q(piece); hits = [r for r in rows if key in _norm_q(r[6] or '')]
+        results.append({'quote': piece.strip(), 'found': bool(hits), 'n_chars': len(key),
+                        'hits': [{'doc_id': r[0], 'title': r[1], 'part': r[2], 'part_label': r[3], 'article_no': r[4], 'article_title': r[5]} for r in hits[:5]]})
+    if getattr(args, 'json', False): print(json.dumps(results, ensure_ascii=False, indent=1)); return
+    ok = all(r['found'] for r in results)
+    for r in results:
+        if r['found']:
+            h = r['hits'][0]; where = f"「{h['title']}」 {h['article_no'] or ''}{'(' + h['article_title'] + ')' if h['article_title'] else ''} [{h['part'] if h['part'] != 'body' else '본문'}{' ' + h['part_label'] if h['part_label'] else ''}]"
+            more = f"  (+{len(r['hits']) - 1}곳 더)" if len(r['hits']) > 1 else ''
+            print(f"  FOUND  {where}{more}  ← \"{r['quote'][:60]}\"")
+        else:
+            print(f"  NOT FOUND  ← \"{r['quote'][:60]}\"  (원문에 이 문장이 없음: 인용 금지, article 출력에서 다시 복사할 것)")
+    print('VERIFY', 'PASS' if ok else 'FAIL')
+
 def cmd_sql(con, args):
     if not re.match(r'^\s*(select|with|pragma|explain)\b', args.query, re.I): print('읽기 전용: SELECT/WITH만 허용'); return
     cur = con.execute(args.query); rows = cur.fetchmany(args.limit); cols = [c[0] for c in cur.description]
@@ -254,6 +278,7 @@ def main(argv=None):
     a = sp.add_parser('show', help='문서 개요/전문'); a.add_argument('doc'); a.add_argument('--full', action='store_true')
     a = sp.add_parser('history', help='제·개정 이력'); a.add_argument('doc')
     a = sp.add_parser('grep', help='정규식 검색'); a.add_argument('pattern'); a.add_argument('--limit', type=int, default=50)
+    a = sp.add_parser('verify', help='인용문이 원문에 있는지 확인'); a.add_argument('quote')
     a = sp.add_parser('sql', help='읽기 전용 SQL'); a.add_argument('query'); a.add_argument('--limit', type=int, default=200)
     sp.add_parser('selftest', help='설치 자가 검증')
     a = sp.add_parser('build', help='DB 생성'); a.add_argument('--force', action='store_true')
@@ -261,7 +286,7 @@ def main(argv=None):
     if args.cmd == 'build': build(force=args.force); return
     con = connect()
     {'docs': cmd_docs, 'search': cmd_search, 'article': cmd_article, 'show': cmd_show, 'history': cmd_history,
-     'grep': cmd_grep, 'sql': cmd_sql, 'selftest': cmd_selftest}[args.cmd](con, args)
+     'grep': cmd_grep, 'verify': cmd_verify, 'sql': cmd_sql, 'selftest': cmd_selftest}[args.cmd](con, args)
 
 if __name__ == '__main__':
     main()
