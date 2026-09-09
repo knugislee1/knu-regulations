@@ -1,0 +1,5 @@
+knu_regulations.sqlite
+knu_regulations.sqlite-journal
+__pycache__/
+*.pyc
+.DS_Store

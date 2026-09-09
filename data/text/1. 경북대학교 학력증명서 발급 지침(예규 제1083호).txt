@@ -1,0 +1,896 @@
+경북대학교 학력증명서 발급 지침
+제정 1996.11. 4. 예규 제193호
+개정 1997. 4.11. 예규 제199호
+    개정 2009.12. 2. 예규 제421호
+  개정 2014. 9.15. 예규 제556호
+개정 2019. 4. 1. 예규 제726호
+개정 2021. 2.10. 예규 제818호
+개정 2022.10. 7. 예규 제928호
+  개정 2024. 1.29. 예규 제987호
+개정 2024. 6.14. 예규 제1008호
+개정 2025. 7. 11. 예규 제1083호
+제1조(목적) 이 지침은 이 대학교 학력증명서발급규정 제8조의2에 따라 증명서의 종류, 발급권자의 명의, 증명발급서식에 관한 처리지침을 정함을 목적으로 한다.
+제2조(학력증명서의 종류) ① 증명서는 재학증명서, 성적증명서, 휴학증명서, 제적증명서, 수료예정증명서, 수료증명서, 졸업예정증명서, 졸업증명서, 학위증명서, 건축학교육인증프로그램 이수증명서, 공동학위과정 이수증명서로 한다. <개정 2021. 2. 10., 2024. 6. 14.>
+② 학력증명서는 한글 또는 영문으로 발급한다. 다만, 필요하다고 인정된 경우에는 다른 외국어로도 발급할 수 있다.
+제3조(학력증명서 발급의 명의) ① 학력증명서는 총장 명의로 발급한다. <개정 2024. 6. 14.>
+② 대학 및 대학원(전문‧특수대학원 포함) 재적생의 학력증명서는 소속 대학(원)장 명의로 발급할 수 있다. 다만, 복수전공이수자의 복수전공 학과(부)에 국한된 성적증명서, 졸업예정증명서는 복수전공대학장 명의로 발급할 수 있다. <개정 2024. 6. 14.>
+③ <삭제 2024. 6. 14.>
+제4조(학력증명 수수료) 학력증명 수수료 징수에 관한 사항은 국립학교각종증명수수료징수규칙에 따른다.
+제5조(재학증명) ① 이 대학교 재학생 및 학사학위취득 유예생으로서 당해 학기에 등록한 자를 대상으로 한다. <개정 2024. 6. 14.>
+② 대학의 재학증명서에는 학칙 제54조의 구분에 의한 학년수료학점을 기준으로 학년을 표기한다.
+③ 각 대학원의 재학증명서에는 등록회수에 의한 재학학기를 표기한다.
+④ 학사학위취득 유예생의 재학증명는 유예기간을 명기한다. <신설 2024. 6. 14.>
+제5조의2(휴학증명) ① 휴학 중인 자를 대상으로 한다.
+② 휴학자의 휴학증명은 휴학기간 및 재적학년을 명기한다. <개정 2025. 7. 11.>
+[본조신설 2024. 6. 14.]
+제6조(성적증명) ① 우리 대학교에 재적했거나, 재학 중인 자를 대상으로 한다.
+② 복수전공자의 원소속학과의 성적증명은 복수전공학점을 포함한 취득학점으로 발급하거나, 복수전공학점을 포함하지 않는 취득학점으로 발급하고, 복수전공학과의 성적증명은 원 소속 학과의 전공학점을 제외한 나머지 취득학점으로 발급한다.
+③ 계절학기 취득학점은 당해 학년도와 이수시기에 따라 S 또는 W로 구분하여 표기한다.
+④ 타대학 수학 및 이수학점인정에 관한 규정에 의하여 취득한 학점은 취득근거를 별도 표기할 수 있다.
+⑤ 편입생의 이수과목 및 성적인정에 관한 규정에 의하여 인정받은 학점은 취득한 대학명과 인정 총학점수만 표기하여 발급한다.
+제7조(제적증명) ① 제적된 자를 대상으로 한다. <개정 2024. 6. 14.>
+② 제적자의 제적증명은 제적일자를 명기한다. <개정 2024. 6. 14.>
+③ <삭제 2024. 6. 14.>
+제8조(수료예정증명) 본교 대학 및 대학원 재학생 중 학칙에 규정한 수업연한에 따른 등록을 하고 당해 학년(학기) 이수 후 수료가 가능한 자를 대상으로 한다.
+1.<삭제>
+2.<삭제>
+3.<삭제>
+4.<삭제>
+제9조(수료증명) ① 본교에 재적했거나, 재적 중인 자를 대상으로 발급한다.
+② 대학은 학칙 제54조에 의한 수료기준 학년을 표기하여 발급한다. 다만, 4년 수료는 소정의 전 교과과정을 이수한 자로서 학칙 제57조에 의한 졸업자격인정을 통과하지 못한 자를 대상으로 한다.
+③ 각 대학원은 학칙 제71조의 수업연한에 따른 등록을 하고, 학칙 제73조에 의한 수료학점을 취득한 자를 대상으로 졸업사정절차를 거쳐 수료자로 확정된 경우 발급한다.
+1.<삭제>
+2.<삭제>
+3.<삭제>
+제10조(졸업예정증명) ① 재학생 중 학칙에 규정한 수업연한에 따른 등록을 하고 당해 학기 이수 후 졸업이 가능한 자를 대상으로 한다. 단, 대학원 수료생으로서 학위청구논문을 제출하여야 하는 경우에는 이를 제출한 자로 한다.
+1.<삭제>
+2.<삭제>
+3.<삭제>
+4.<삭제>
+②<삭제>
+제11조(졸업증명) 본교 대학(원)을 졸업하고, 소정의 증서를 받은 자를 대상으로 한다.
+제12조(학위증명) 본교 대학(원)에서 소정의 증서를 받은 자를 대상으로 하되, 국문증명으로 발행한다.
+제13조(건축학교육인증프로그램 이수증명서) 본교 건축‧토목공학부 건축학전공 및 건축학부 건축학전공에서 건축학교육인증프로그램을 이수한 자를 대상으로 한다.
+제13조의 2(공동학위과정 이수증명서) 「경북대학교와 국내․외 대학간 공동학위 및 복수학위과정 운영에 관한 규정」에 따라 공동학위과정을 이수한 자를 대상으로 한다.
+<본조신설 2021. 2. 10.>
+제14조(제증명서식) 각종 학력증명의 서식은 다음과 같이 한다. <개정 2021. 2. 10., 2024. 6. 14.>
+1. 대학 재학증명서                   : 별지 1호 서식
+2. 대학원 재학증명서                 : 별지 2호 서식
+3. 대학 성적증명서                   : 별지 3호 서식
+4. 대학원 성적증명서                 : 별지 4호 서식
+5. 휴학증명서(대학)                   : 별지 5호 서식
+5-1. 휴학증명서(대학원)               : 별지 5-1호 서식
+6. 제적증명서(대학)                   : 별지 6호 서식
+7. 제적증명서(대학원)                 : 별지 7호 서식
+8. 대학 수료예정증명서               : 별지 8호 서식
+8-1. 대학원 수료예정증명서           : 별지 8-1호 서식
+9. 대학 수료증명서                   : 별지 9호 서식
+9-1. 대학원 수료증명서               : 별지 9-1호 서식
+10. 졸업예정증명서(대학)              : 별지 10호 서식
+11. 졸업예정증명서(대학원)            : 별지 11호 서식
+12. 졸업증명서(대학)                  : 별지 12호 서식
+13. 졸업증명서(대학원)                : 별지 13호 서식
+14. 사범대학 전신학교 졸업증명서     : 별지 14호 서식
+15. 의과대학 전신학교 졸업증명서     : 별지 15호 서식
+16. 농과대학 전신학교 졸업증명서     : 별지 16호 서식
+17. 의과대학 부속간호학교 졸업증명서 : 별지 17호 서식
+18. 대학(원) 영문재학증명서           : 별지 18호 서식
+19. 대학 영문성적증명서              : 별지 19호 서식
+20. 대학원 영문성적증명서            : 별지 20호 서식
+21. 대학(원) 영문 휴학증명서          : 별지 21호 서식
+22. 대학(원) 영문 제적증명서          : 별지 22호 서식
+23. 대학원 영문 수료예정증명서       : 별지 23호 서식
+24. 대학원 영문 수료증명서           : 별지 24호 서식
+25. 대학(원) 영문 졸업예정증명서      : 별지 25호 서식
+26. 대학(원) 영문 졸업증명서          : 별지 26호 서식
+27. 의대부속간호학교 영문졸업증명서  : 별지 27호 서식
+28. 학위증명서                       : 별지 28호 서식
+29. 건축학교육인증프로그램 이수증명서  : 별지 29호 서식
+29-1. 건축학교육인증프로그램 영문이수증명서  : 별지 29호-1 서식
+30. 공동학위과정 이수증명서          : 별지 30호 서식
+30-1. 공동학위과정 영문이수증명서    : 별지 30호-1 서식
+제15조(시행시기) 이 지침은 1996학년도부터 시행한다.
+부    칙(예규 제199호)
+이 원칙은 1997학년도부터 시행한다.
+부    칙(예규 제421호)
+이 예규는 공포한 날부터 시행한다.
+부    칙(예규 제556호)
+이 예규는 공포한 날부터 시행한다.
+부  칙(예규 제727호, 2019. 4. 1.)
+이 예규는 공포한 날부터 시행한다.
+부  칙(예규 제818호, 2021. 2. 10.)
+이 예규는 공포한 날부터 시행한다.
+부  칙(예규 제928호, 2022. 10. 7.)
+이 예규는 공포한 날부터 시행한다.
+부  칙(예규 제987호, 2024. 1. 29.)
+이 예규는 공포한 날부터 시행한다.
+부  칙(예규 제1008호, 2024. 6. 14.)
+이 예규는 공포한 날부터 시행한다.
+부  칙(예규 제1083호, 2025. 7. 11.)
+이 예규는 공포한 날부터 시행한다.
+<별지 1호 서식> <개정 2024. 6. 14.>
+
+  제       호
+재 학 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+  대학
+전          공 :
+입  학  일  자 :
+재  학  학  년 :
+    학년
+학  적  사  항 :
+복  수  전  공 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+※ 학적사항은 학사학위취득 유예생만, 복수전공은 이수 중인 자만 표기
+<별지 2호 서식> <개정 2022. 10. 7., 2024. 6. 14.>
+
+  제       호
+재 학 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+  대학원
+전          공 :
+과  정  구  분 :
+석사(또는 박사)과정
+입  학  일  자 :
+재  학  학  기 :
+      학기
+공  동  학  위 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+ ※ 공동학위 과정명은 이수 중인 자만 표기
+<별지 3호 서식> <개정 2019. 4. 1, 2024. 1. 29.>
+제    호
+                 성 적 증 명 서
+
+소    속:
+학    번:
+입학일자:
+생년월일:
+성    명:
+졸업일자:
+복수전공:
+학위번호:
+연계‧융합전공:
+부전공:
+
+구분
+이수과목
+학점
+성적
+구분
+이수과목
+학점
+성적
+구분
+이수과목
+학점
+성적
+
+마이크로전공:
+KNU 미래설계:
+교과구분
+교양
+전공
+복수
+융합
+연계
+부전
+마크
+일선
+자선
+교직
+공학
+전반
+전교
+전기
+전심
+이수학점
+교양: 교양, 전공: 전공, 복수: 복수전공, 융합: 융합전공, 연계: 연계전공, 부전: 부전공, 마크: 마이크로전공, 일선: 일반선택, 자선: 자유선택,
+교직: 교직, 공학: 공학전공, 전반: 전공기반, 전교: 전문교양, 전기: 전공기초, 전심: 전공심화, 전선: 전공선택, 전필: 전공필수,
+선수: 선수과목, 기공: 기초공통,  ※ 일반선택: 2019학년도부터 자유선택을 일반선택으로 명칭 변경
+A+=4.3(97~100),A0=4.0(94~96),A-=3.7(90~93),B+=3.3(87~89),B0=3.0(84~86),B-=2.7(80~83),C+=2.3(77~79),C0=2.0(74~76),C-=1.7(70~73), D+=1.3(67~69), D0=1.0(64~66),  D-=0.7(60~63),  F=0.0(0), S=이수, U=미 이수
+위의 사실을 증명합니다.
+년   월   일
+경 북 대 학 교 총 장
+※ 우리대학교에서는 1996학년도부터 상대평가제를 엄격하게 시행하고 있습니다.
+우) 41566  대구광역시 북구 대학로 80        담당부서: 학사과       전화번호: 053-950-2056      http://www.knu.ac.kr
+<별지 4호 서식> <개정 2019. 4. 1, 2024. 1. 29.>
+제    호
+                 성 적 증 명 서
+소    속:                              학    번:                                   생년월일:
+과정구분:                              성    명:
+입학일자:                              졸업일자:                                   학위번호:
+융합전공:
+
+구분
+이수과목
+학점
+성적
+구분
+이수과목
+학점
+성적
+구분
+이수과목
+학점
+성적
+외국어시험 :                           종합시험 :                     연구윤리교육 :
+논문제목 :
+교양: 교양, 전공: 전공, 복수: 복수전공, 융합: 융합전공, 부전: 부전공, 일선: 일반선택, 자선: 자유선택, 교직: 교직,
+전기: 전공기초, 전선: 전공선택, 전필: 전공필수, 선수: 선수과목, 기공: 기초공통
+※ 일반선택: 2019학년도부터 자유선택을 일반선택으로 명칭 변경
+A+=4.3(97~100),A0=4.0(94~96),A-=3.7(90~93),B+=3.3(87~89),B0=3.0(84~86),B-=2.7(80~83),C+=2.3(77~79),C0=2.0(74~76),C-=1.7(70~73), D+=1.3(67~69), D0=1.0(64~66), D-=0.7(60~63), F=0.0(0), S=이수, U=미 이수
+위의 사실을 증명합니다.
+년   월   일
+경 북 대 학 교 총 장
+우) 41566  대구광역시 북구 대학로 80        담당부서: 학사과       전화번호: 053-950-2056      http://www.knu.ac.kr
+<별지 5호 서식> <개정 2025. 7. 11.>
+
+  제       호
+휴 학 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+  대학
+전          공 :
+입  학  일  자 :
+재  적  학  년 :
+    학년
+학  적  사  항 :
+복  수  전  공 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+※ 복수전공은 이수 중인 자만 표기
+<별지 5-1호 서식> <개정 2022. 10. 7., 2024. 6. 14.>
+
+  제       호
+휴 학 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+  대학원
+전          공 :
+과  정  구  분 :
+석사(또는 박사)과정
+입  학  일  자 :
+학  적  사  항 :
+공  동  학  위 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+※ 공동학위 과정명은 이수 중인 자만 표기
+<별지 6호 서식>
+
+  제       호
+제 적 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+    대학
+전          공 :
+과  정  구  분 :
+학사과정( 학년)
+입  학  일  자 :
+학  적  사  항 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+<별지 7호 서식>
+
+  제       호
+제 적 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+      대학원
+전          공 :
+과  정  구  분 :
+석사(또는 박사)과정
+입  학  일  자 :
+학  적  사  항 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+<별지 8호 서식>
+
+  제       호
+수 료 예 정 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+  대학
+수 료 예 정 학 년 :
+입  학  일  자 :
+수 료 예 정 일 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+<별지 8-1호 서식> <개정 2024. 6. 14.>
+
+  제       호
+수 료 예 정 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+  대학원
+전          공 :
+과  정  구  분 :
+석사(또는 박사)과정
+입  학  일  자 :
+수 료 예 정 일 :
+융  합  전  공 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+※ 융합전공은 이수 중인 자만 표기
+<별지 9호 서식>
+
+  제       호
+수 료 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+    대학
+수  료  학  년 :
+      학년
+입  학  일  자 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+<별지 9-1호 서식> <개정 2022. 10. 7., 2024. 6. 14.>
+
+  제       호
+수 료 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+     대학원
+전          공 :
+과  정  구  분 :
+석사(또는 박사)과정
+입  학  일  자 :
+수  료  일  자 :
+융  합  전  공 :
+공  동  학  위 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+※ 융합전공, 공동학위 과정명은 이수 중인 자만 표기
+<별지 10호 서식> <개정 2024. 6. 14.>
+
+  제       호
+졸 업 예 정 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+    대학
+전          공 :
+입  학  일  자 :
+졸 업 예 정 일 :
+복  수  전  공 :
+연  계  전  공 :
+융  합  전  공 :
+부    전    공 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+※ 복수전공, 연계전공, 융합전공, 부전공은 이수 중인 자만 표기
+<별지 11호 서식> <개정 2024. 6. 14.>
+
+  제       호
+졸 업 예 정 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+     대학원
+전          공 :
+과  정  구  분 :
+석사(또는 박사)과정
+입  학  일  자 :
+졸 업 예 정 일 :
+융  합  전  공 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+※ 융합전공은 이수 중인 자만 표기
+<별지 12호 서식> <개정 2024. 6. 14.>
+
+  제       호
+졸 업 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+전          공 :
+복  수  전  공 :
+연  계  전  공 :
+융  합  전  공 :
+부    전    공 :
+입  학  일  자 :
+졸  업  일  자 :
+학          위 :
+학  위  번  호 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+※ 복수전공, 연계전공, 융합전공, 부전공은 이수 중인 자만 표기
+<별지 13호 서식> <개정 2024. 6. 14.>
+
+  제       호
+졸 업 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+전          공 :
+융  합  전  공 :
+입  학  일  자 :
+졸  업  일  자 :
+학          위 :
+학  위  번  호 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+※ 융합전공은 이수 중인 자만 표기
+<별지 14호 서식>
+
+   제         호
+         졸  업  증  명  서
+성       명  :
+생 년 월 일  :
+소       속  : 官立大邱師範學校
+입 학 일 자  :
+졸 업 일 자  :
+
+위의 사실을 증명합니다
+20  년   월  일
+경  북  대  학  교  총  장
+<별지 15호 서식>
+
+   제         호
+         졸  업  증  명  서
+성       명  :
+생 년 월 일  :
+소       속  : 대구의학전문학교
+입 학 일 자  :
+졸 업 일 자  :
+
+위의 사실을 증명합니다
+20  년   월  일
+경  북  대  학  교  총  장
+<별지 16호 서식>
+
+   제         호
+         졸  업  증  명  서
+성       명  :
+생 년 월 일  :
+소       속  : 대구농과대학     학과
+입 학 일 자  :
+졸 업 일 자  :
+
+위의 사실을 증명합니다
+20  년   월  일
+경  북  대  학  교  총  장
+<별지 17호 서식>
+
+   제         호
+         졸  업  증  명  서
+성       명  :
+생 년 월 일  :
+소       속  : 의과대학부속간호학교
+입 학 일 자  :
+졸 업 일 자  :
+
+위의 사실을 증명합니다
+20  년   월  일
+경  북  대  학  교  총  장
+<별지 18호 서식> <개정 2022. 10. 7., 2024. 6. 14.>
+
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+CERTIFICATE OF ENROLLMENT
+   NO :
+Date :
+Name in Full
+:
+Date of Birth
+:
+Date of Admission
+:
+Degree Course
+:
+College/School
+:
+Department
+:
+Major
+:
+Joint Degree Program
+:
+
+This is to certify that the above-mentioned is true and correct.
+President
+Kyungpook National University
+<별지 19호 서식〉<개정 2022. 10. 7., 2024. 1. 29., 2024. 6. 14.>
+ NO.:
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+UNDERGRADUATE TRANSCRIPT
+Date :
+ Name in Full :
+ Date of Birth :
+ Date of Admission :
+ Date of Graduation :
+ Degree Conferred :
+ Sex :
+College :
+Department/School :
+Major :
+Multiple Major :
+Year
+Semester
+Course Titles
+Credits
+Grade
+Year
+Semester
+Course Titles
+Credits
+Grade
+* * * * THE END * * * *
+        TOTAL CREDITS =
+               G. P. A.   =      / 4.3
+Notes : 1. Grades   A+=4.3(97-100), A0=4.0(94-96), A-=3.7(90-93),
+                    B+=3.3(87-89),  B0=3.0(84-86), B-=2.7(80-83),
+                    C+=2.3(77-79),  C0=2.0(74-76), C-=1.7(70-73),
+                    D+=1.3(67-69),  D0=1.0(64-66), D-=0.7(60-63),
+                    S: Satisfactory, U:Unsatisfactory, TBC : to be confirmed
+         2. Required Credits for Bachelor's Degree :
+         3. Since 1996 all marks have been graded on a curve.
+President
+Kyungpook National University
+<별지 20호 서식> <개정 2022. 10. 7., 2024. 1. 29., 2024. 6. 14.>
+ NO.:
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+POSTGRADUATE TRANSCRIPT
+Date :
+ Name in Full :
+ Date of Birth :
+ Date of Admission :
+ Date of Graduation :
+ Degree Course :
+ Sex :
+School :
+Department :
+Major :
+Multiple Major :
+Year
+Semester
+Course Titles
+Credits
+Grade
+Year
+Semester
+Course Titles
+Credits
+Grade
+* * * * THE END * * * *
+        TOTAL CREDITS =
+               G. P. A.   =      / 4.3
+Notes : 1. Grades   A+=4.3(97-100), A0=4.0(94-96), A-=3.7(90-93),
+                    B+=3.3(87-89),  B0=3.0(84-86), B-=2.7(80-83),
+                    C+=2.3(77-79),  C0=2.0(74-76), C-=1.7(70-73),
+                    D+=1.3(67-69),  D0=1.0(64-66), D-=0.7(60-63),
+                    S: Satisfactory, U:Unsatisfactory, TBC : to be confirmed
+        2. Required Credits for (Master/Ph.D.)'s Degree :
+President
+Kyungpook National University
+<별지 21호 서식> <개정 2022. 10. 7., 2024. 6. 14.>
+
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+CERTIFICATE OF LEAVE OF ABSENCE
+   NO :
+Date :
+Name in Full
+:
+Date of Birth
+:
+Date of Admission
+:
+Date of Cessation
+:
+Degree Course
+:
+College/School
+:
+Department
+:
+Major
+:
+Joint Degree Program
+:
+This is to certify that the above-mentioned is true and correct.
+
+President
+Kyungpook National University
+<별지 22호 서식> <개정 2022. 10. 7., 2024. 6. 14.>
+
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+CERTIFICATE OF EXPULSION
+   NO :
+Date :
+Name in Full
+:
+Date of Birth
+:
+Date of Admission
+:
+Date of Cessation
+:
+Degree Course
+:
+College/School
+:
+Department
+:
+Major
+:
+This is to certify that the above-mentioned is true and correct.
+
+President
+Kyungpook National University
+<별지 23호 서식> <개정 2022. 10. 7., 2024. 6. 14.>
+
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+CERTIFICATE OF EXPECTED COURSEWORK COMPLETION
+   NO :
+Date :
+Name in Full
+:
+Date of Birth
+:
+Date of Admission
+:
+Expected Date of Completion
+:
+Degree Course
+:
+School
+:
+Department
+:
+Major
+:
+Multiple Major
+:
+This is to certify that the above-mentioned is true and correct.
+
+President
+Kyungpook National University
+<별지 24호 서식> <개정 2022. 10. 7., 2024. 6. 14.>
+
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+CERTIFICATE OF COURSEWORK COMPLETION
+   NO :
+Date :
+Name in Full
+:
+Date of Birth
+:
+Date of Admission
+:
+Date of Completion
+:
+Degree Course
+:
+School
+:
+Department
+:
+Major
+:
+Multiple Major
+:
+Joint Degree Program
+:
+This is to certify that the above-mentioned is true and correct.
+
+President
+Kyungpook National University
+<별지 25호 서식> <개정 2022. 10. 7., 2024. 6. 14.>
+
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+  CERTIFICATE OF EXPECTED GRADUATION
+   NO :
+Date :
+Name in Full
+:
+Date of Birth
+:
+Date of Admission
+:
+Expected Date of Graduation
+:
+College/School
+:
+Department
+:
+Major
+:
+Multiple Major
+:
+Expected Degree
+:
+This is to certify that the above-mentioned is true and correct.
+
+President
+Kyungpook National University
+<별지 26호 서식> <개정 2022. 10. 7., 2024. 6. 14.>
+
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+CERTIFICATE OF GRADUATION(DEGREE)
+   NO :
+Date :
+Name in Full
+:
+Date of Birth
+:
+Date of Admission
+:
+Date of Graduation
+:
+College/School
+:
+Department
+:
+Major
+:
+Multiple Major
+:
+Degree Conferred
+:
+This is to certify that the above-mentioned is true and correct.
+
+President
+Kyungpook National University
+<별지 27호 서식> <개정 2022. 10. 7.>
+
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+GRADUATION CERTIFICATE
+No.                                        Date :
+	Name in Full      :
+	Date of Birth      :
+	Date of Admission :
+	Date of Graduation :
+	College : Attached School of Nursing, College of Medicine
+	Degree Conferred      : ****
+	 This is to certify that the above mentioned graduated from
+  the Attached School of Nursing, College of Medicine, Kyungpook        National University.
+
+
+						President
+						Kyungpook National University
+Note: Invalid if not Impressed with the University seal.
+<별지 28호 서식> <개정 2024. 6. 14.>
+
+  제       호
+학 위 증 명 서
+성          명 :
+생  년  월  일 :
+소          속 :
+전          공 :
+복  수  전  공 :
+연  계  전  공 :
+융  합  전  공 :
+부    전    공 :
+입  학  일  자 :
+졸  업  일  자 :
+학          위 :
+학  위  번  호 :
+위의 사실을 증명합니다.
+20   년     월     일
+경 북 대 학 교 총 장
+※ 복수전공, 연계전공, 융합전공, 부전공은 이수 중인 자만 표기
+<별지 29호 서식>
+
+   제         호
+건축학교육인증프로그램 이수증명서
+성       명  :
+학       번  :
+생 년 월 일  :
+소       속  :
+전       공  :
+교육 과정명  : 건축학교육인증프로그램
+졸 업 일 자  :
+  위 학생은 한국건축학교육인증원이 인증한
+건축학교육인증(인증번호 KAAB-20○○○○호)프로그램을 이수하였음을 증명합니다.
+20  년   월   일
+경  북  대  학  교  총  장
+<별지 29-1호 서식> <개정 2022. 10. 7.>
+
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+  CERTIFICATE OF PROFESSIONAL DEGREE PROGRAM
+   NO :
+Date :
+Name in Full
+:
+Date of Birth
+:
+Date of Admission
+:
+College
+:
+Department/School
+:
+Major
+:
+Degree Conferred
+:
+
+ This is to certify that the above mentioned student confirmed of successfully graduated the professional degree program accredited
+ by Korean Architectural Accrediting Board.
+Accreditation No. KAAB-20○○○○
+
+President
+Kyungpook National University
+<별지 30호 서식> <신설 2021. 2. 10.>
+
+   제         호
+공동학위과정 이수증명서
+성       명   :
+생 년 월 일   :
+소       속   :
+전       공   :
+과 정 구 분   :
+공동학위과정   :
+협 정 대 학   :
+졸 업 일 자   :
+  위의 사실을 증명합니다.
+  년   월   일
+경  북  대  학  교  총  장
+<별지 30-1호 서식> <신설 2021. 2. 10.>
+
+KYUNGPOOK NATIONAL UNIVERSITY
+80 Daehakro, Bukgu, Daegu 41566, KOREA
+  CERTIFICATE OF JOINT DEGREE PROGRAM
+   NO :
+Date :
+Name in Full
+:
+Date of Birth
+:
+School
+:
+Department
+:
+Major
+:
+Degree Course
+:
+Joint Degree Program
+:
+Partner University
+:
+
+Date of Graduation
+:
+
+ This is to certify that the above mentioned student successfully graduated from the joint degree program in the Department of
+                ,                 , Kyungpook National University.
+President
+Kyungpook National University
